@@ -1,11 +1,9 @@
 # RZFileSelector
 
-基于iCloud的文件选择器。 通过该工具可以在ios app 内对文件进行上传与流转
+- 项目描述
+  
+  基于iCloud的文件选择器。 通过该工具可以在ios app 内对文件进行上传与流转
 
-## Author
+- 针对该组件写的一遍博文
 
-Reyzhang2010, zhanglei5415@163.com
-
-## License
-
-RZFileSelector is available under the MIT license. See the LICENSE file for more info.
+  https://blog.csdn.net/zhanglei5415/article/details/133900867
